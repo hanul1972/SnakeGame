@@ -1,7 +1,7 @@
 #############################################################################
 # The project file is available here: github.com/clear-code-projects/Snake
 # * (4/26) gitHub 저장
-#   - main.py에 파일 수정
+#   - main.py에 파일 수정ㅜ
 #############################################################################
 import pygame
 import sys
